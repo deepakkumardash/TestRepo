@@ -1,1 +1,2 @@
 this is new file....to be uploaded to git
+this is another like to be added...testing of reset
